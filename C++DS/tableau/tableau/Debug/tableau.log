@@ -1,0 +1,30 @@
+﻿  Source.cpp
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(96,14): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(95): message : pendant la compilation de la fonction membre classe modèle 'const T &data_structure::tableau<T>::operator [](int) const'
+          with
+          [
+              T=int
+          ]
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\Source.cpp(14): message : voir la référence à l'instanciation de la fonction modèle 'const T &data_structure::tableau<T>::operator [](int) const' en cours de compilation
+          with
+          [
+              T=int
+          ]
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\Source.cpp(5): message : voir la référence à l'instanciation classe modèle 'data_structure::tableau<int>' en cours de compilation
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(84,14): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(82): message : pendant la compilation de la fonction membre classe modèle 'T &data_structure::tableau<T>::operator [](int)'
+          with
+          [
+              T=int
+          ]
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\Source.cpp(12): message : voir la référence à l'instanciation de la fonction modèle 'T &data_structure::tableau<T>::operator [](int)' en cours de compilation
+          with
+          [
+              T=int
+          ]
+  tableau.cpp
+  tableauException.cpp
+  Génération de code en cours...
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(93): warning C4715: 'data_structure::tableau<int>::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\tableau\tableau.h(105): warning C4715: 'data_structure::tableau<int>::operator[]' : les chemins de contrôle ne retournent pas tous une valeur
+  tableau.vcxproj -> C:\Users\elbme\OneDrive\Bureau\C++DS\tableau\Debug\tableau.exe
